@@ -23,4 +23,4 @@ VPS / Server [Tutorial](https://github.com/SudhanPlayz/Discord-MusicBot/wiki/Ins
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SudhanPlayz/Discord-MusicBot) 
 [![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/SudhanPlayz/Discord-MusicBot)
 
-## Credit to SudhanPlayz
+## Credit to [SudhanPlayz](https://github.com/SudhanPlayz/)
